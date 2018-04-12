@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">EntrepreneurshipQuizApp</string>
+    <string name="title">"Entrepreneurship Quiz"</string>
+    <string name="q1">"Question 1:"</string>
+    <string name="q1_description">"Entrepreneurship is a linear process"</string>
+    <string name="q1_a">"True"</string>
+    <string name="q1_b">"False"</string>
+    <string name="q2">"Question 2:"</string>
+    <string name="q2_description">"The word "entrepreneur" comes from what language?"</string>
+    <string name="q2_a">"Arabic"</string>
+    <string name="q2_b">"French"</string>
+    <string name="q2_c">"German"</string>
+    <string name="q3">"Question 3:"</string>
+    <string name="q3_description">"Entrepreneurs love taking huge risks"</string>
+    <string name="q3_a">"True"</string>
+    <string name="q3_b">"False"</string>
+    <string name="q4">"Question 4:"</string>
+    <string name="q4_description">"Entrepreneurs are driven by:"</string>
+    <string name="q4_a">"Money"</string>
+    <string name="q4_b">"Social Impact"</string>
+    <string name="q4_c">"Their Egos"</string>
+    <string name="q4_d">"Various Factors"</string>
+    <string name="submit_answers">"Submit Answers"</string>
+</resources>

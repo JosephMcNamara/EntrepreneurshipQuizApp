@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="ball_radius">30dp</dimen>
+    <dimen name="info_text">15sp</dimen>
+    <dimen name="title_text">25sp</dimen>
+    <dimen name="question_text">15sp</dimen>
+    <dimen name="question_paddingLeft">100dp</dimen>
+    <dimen name="question_paddingStart">100dp</dimen>
+    <dimen name="question_paddingRight">100dp</dimen>
+    <dimen name="question_paddingEnd">100dp</dimen>
+    <dimen name="question_paddingBottom">10dp</dimen>
+    <dimen name="q_paddingTop">15dp</dimen>
+    <dimen name="imageview_layout_weight">1</dimen>
+</resources>
